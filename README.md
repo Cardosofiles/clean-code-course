@@ -1,6 +1,20 @@
-# 🧼 Clean Code - Boas Práticas em Desenvolvimento
+<div align="center">
+
+<h1 align="center">🧼  Curso Clean Code - Boas Práticas de Desenvolvimento</h1>
+
+### Informações
+
+![Instituição](https://img.shields.io/badge/Instituição-Rocketseat-0078D4?style=for-the-badge&logo=azuredevops)
+![Curso](https://img.shields.io/badge/Curso-CleanCode-4B8BBE?style=for-the-badge&logo=github)
+![Professor](https://img.shields.io/badge/Professor-Diego%20Fernandes-FFCA28?style=for-the-badge&logo=linkedin)
+
+**Instituição:** [Rocketseat](https://www.rocketseat.com.br/)<br>
+**Curso:** Clean Code - ReactJS e NodeJS<br>
+**Professor:** [Diego Schell Fernandes](https://www.linkedin.com/in/diego-schell-fernandes/)
 
 Este repositório tem como objetivo documentar e demonstrar os aprendizados adquiridos durante um curso de **Clean Code**. Aqui você encontrará exemplos práticos das melhores práticas de codificação para tornar o código mais **legível, manutenível e eficiente**.
+
+</div>
 
 ---
 
@@ -18,7 +32,6 @@ Este repositório tem como objetivo documentar e demonstrar os aprendizados adqu
 
 ---
 
-
 ## 🎯 Objetivo
 
 - Escrever códigos **mais limpos, legíveis e manuteníveis**.
@@ -34,3 +47,9 @@ Este repositório tem como objetivo documentar e demonstrar os aprendizados adqu
 - [ESLint](https://eslint.org/) (para linting do código)
 
 ---
+
+<div align="right">
+
+[⬆️ Voltar ao topo](#informações)
+
+</div>
